@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "abusathatevinsp.aternos.me:16572",
+    "ip": "abusathatevinsp.aternos.me",
     "port": 16572,
     "version": "",
     "try-creative": false
